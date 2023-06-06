@@ -1,4 +1,4 @@
-name: 'Framed'
+name: 'mactat/framed'
 description: 'Enforce repos structure using Framed'
 inputs:
   template:
