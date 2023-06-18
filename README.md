@@ -21,8 +21,8 @@ verify:
     steps:
     - uses: actions/checkout@v2
     - name: Verify Project Structure
-        uses: mactat/framed@0.0.7
+        uses: mactat/framed@0.0.8
         with:
         template: './framed.yaml' # Optional, default is framed.yaml
-        version: 'v0.0.7'         # Optional, default is v0.0.7
+        version: 'v0.0.8'         # Optional, default is v0.0.7
 ```
